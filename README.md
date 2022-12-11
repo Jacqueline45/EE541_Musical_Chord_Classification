@@ -1,4 +1,6 @@
 # EE541_Project
 
 
-req (temp)
+Musical Chord Classification
+
+
