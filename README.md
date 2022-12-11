@@ -7,13 +7,13 @@
 There are four notebooks in this repository, which you can run in Google Colab (no dependency issues) as long as the dataset path is correctly specified:
 
 1. MusicalChord.ipynb \
-&nbsp;This notebook mostly followed this [Kaggle Post](https://www.kaggle.com/code/ahmetcelik158/mathematics-of-music-chord-classification/notebook), in which you can see detailed data processing, feature analysis and generation, and the results of Random Forest Classifiers.
+This notebook mostly followed this [Kaggle Post](https://www.kaggle.com/code/ahmetcelik158/mathematics-of-music-chord-classification/notebook), in which you can see detailed data processing, feature analysis and generation, and the results of Random Forest Classifiers.
 
 2. MusicalChord-MLP.ipynb \
-&nbsp;This notebook contains the model definition of MLP, dataloader, and detailed training and evaulation processes and results.
+This notebook contains the model definition of MLP, dataloader, and detailed training and evaulation processes and results.
 
 3. MusicalChord-GRU.ipynb \
-&nbsp;This notebook is very similar to 2. except that the model is changed to GRU.
+This notebook is very similar to 2. except that the model is changed to GRU.
 
 4. MusicalChord-XGBoost.ipynb \
-&nbsp;This notebook shows how we implemented XGBoost and the corresponding results.
+This notebook shows how we implemented XGBoost and the corresponding results.
